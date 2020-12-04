@@ -1,0 +1,84 @@
+@media (min-width: 1200px) {
+  #scroll1 {
+    background-image: url("../../assets/img/pblDepo_main%20bg%20laptopL.png");
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  #scroll1 {
+    background-image: url("../../assets/img/pblDepo_main%20bg%20laptop.png");
+  }
+}
+
+@media (max-width: 992px) {
+  #scroll1 {
+    background-image: url("../../assets/img/pblDepo_main%20bg%20tablet.png");
+    background-position: center;
+  }
+}
+
+#scroll1 {
+  background-color: rgb(224,224,224);
+  background-position: 50% 65%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+}
+
+#nav {
+  background-color: transparent;
+}
+
+#title {
+  font-family: 'Montserrat Black';
+  font-size: 40px;
+  margin-top: 85px;
+}
+
+#subtitle {
+  font-size: 40px;
+  font-family: 'Montserrat Black';
+  margin-top: 10px;
+}
+
+#subtitle {
+  height: 50px;
+}
+
+#1 {
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../../assets/img/pblDepo_side%20pattern%20tabket.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  background-color: #e0e0e0;
+}
+
+#nav_brand {
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 90px;
+  height: 43px;
+}
+
+#nav_brand_catalogue {
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 90px;
+  height: 43px;
+}
+
+#search_catalogue {
+  width: 50vw;
+}
+
+#scroll1_catalogue {
+  margin-top: 48px;
+}
+

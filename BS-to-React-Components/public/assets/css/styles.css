@@ -1,0 +1,240 @@
+.btn {
+  display: inline-block;
+  font-weight: 400;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  background-color: transparent;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  line-height: 1.5;
+  border-radius: 0px 20px 20px 0px;
+  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+.btn-light {
+  color: white;
+  background-color: #FFC05C;
+}
+
+.btn:hover {
+  background-color: #c0934c;
+  color: white;
+  text-decoration: none;
+}
+
+@media (max-width: 990px) {
+  .display-none {
+    display: none;
+  }
+}
+
+@media (min-width: 989px) {
+  .icon.ion-arrow-right-c.display-true {
+    display: none;
+  }
+}
+
+.btn.btn-primary.see-more {
+  background-color: #FFC05C;
+}
+
+.btn.btn-primary.see-more {
+}
+
+body {
+  background-image: url("../../assets/img/pblDdepo_pattern%20mobile.png");
+  background-repeat: repeat-y;
+  background-size: contain;
+  background-color: #e0e0e0;
+}
+
+@media (max-width: 764px) {
+  .col-md-6.d-flex.d-md-flex.justify-content-center.align-items-center.justify-content-md-center.align-items-md-center {
+    background-color: #6622CC;
+    height: 77%;
+  }
+}
+
+@media (max-width: 768px) {
+  #team {
+    width: 99%;
+    margin-top: 795px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  #team {
+    margin-top: 395px;
+  }
+}
+
+#title {
+  margin-top: 51px;
+  height: 60px;
+}
+
+#subtitle {
+  height: 50px;
+}
+
+#stat_div2 {
+  width: 100%;
+}
+
+#stat_column1 {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 500px;
+  background-image: url("users (1).gif");
+  height: 240px;
+  width: 240px;
+}
+
+#stat_column2 {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 500px;
+  background-image: url("projects (1).gif");
+  height: 240px;
+  width: 240px;
+}
+
+#stat_column3 {
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 500px;
+  background-image: url("baldeoj (1).gif");
+  height: 240px;
+  width: 240px;
+}
+
+#scroll3_row {
+  height: 393px;
+}
+
+#scroll3_column2 {
+  background-color: #6622CC;
+}
+
+#scroll3_column1_text {
+  height: 315px;
+}
+
+#find_icon {
+  margin-top: 11px;
+}
+
+#list_div {
+  margin-top: 33px;
+}
+
+#add_team_icon {
+  margin-top: 33px;
+}
+
+#scroll4_column3_paragraph {
+  margin-bottom: 20px;
+}
+
+#team_intro {
+  width: 100%;
+}
+
+#team_column {
+  width: 240px;
+  height: 240px;
+  padding-right: 0px;
+  padding-left: 0px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#costea {
+  border-radius: 500px;
+  background-image: url("../../assets/img/IMG_2314.JPG");
+  height: 240px;
+  width: 240px;
+}
+
+#sandu {
+  border-radius: 500px;
+  background-image: url("../../assets/img/min.jpg");
+  height: 240px;
+  width: 240px;
+}
+
+#antonela {
+  border-radius: 500px;
+  background-image: url("../../assets/img/Antonela.lpg.jpg");
+  height: 240px;
+  width: 240px;
+}
+
+#nichita {
+  border-radius: 500px;
+  background-image: url("../../assets/img/nichita.png");
+  height: 240px;
+  width: 240px;
+}
+
+#wasea {
+  border-radius: 500px;
+  background-image: url("../../assets/img/drumea.png");
+  height: 240px;
+  width: 240px;
+}
+
+#pizdabol {
+  border-radius: 500px;
+  background-image: url("../../assets/img/4535.png");
+  height: 240px;
+  width: 240px;
+}
+
+#baldeojna {
+  color: white;
+  border-radius: 20px;
+  background-color: rgb(102,34,204);
+}
+
+p {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  margin: 20px 0 30px;
+}
+
+p {
+  font-size: 14px;
+  font-weight: 100;
+  line-height: 20px;
+  letter-spacing: 0.5px;
+  margin: 20px 0 30px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+* {
+  outline: none;
+}
+#list-item {
+  color: rgb(0,0,0);
+}
+
+#Solid-background {
+  background-color: rgb(224,224,224);
+}
+
