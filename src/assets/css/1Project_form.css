@@ -1,0 +1,77 @@
+#Jumbotron-project-description {
+  border-radius: 20px;
+  width: 70vw;
+  background-color: rgba(255,255,255,0.55);
+}
+
+#project-form-row {
+  width: 70vw;
+  height: 60vh;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+#project-form-column-1 {
+  border-radius: 20px;
+  width: 100%;
+  height: 95%;
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(248,247,247,0.55);
+  padding-left: 0px;
+  max-width: 48%;
+  margin-right: 4%;
+}
+
+#project-form-column-2 {
+  background-color: rgba(248,247,247,0.55);
+  border-radius: 20px;
+  width: 100%;
+  height: 95%;
+  max-width: 48%;
+}
+
+#project-name-column-2 {
+  height: 40px;
+  font-size: 46px;
+  margin-top: 39px;
+}
+
+#project-subtitle-column-2 {
+  font-size: 25px;
+  margin-top: 21px;
+}
+
+#avg_rating {
+  font-size: 20px;
+}
+
+#project-rating-column-2 {
+  height: 39px;
+}
+
+#jumbotron-outer-div {
+  margin-top: 28px;
+}
+
+#github_title {
+  font-size: 23px;
+  height: 25px;
+}
+
+#view_report {
+  width: 200px;
+  border-radius: 50px;
+}
+
+#rate-it {
+  margin-top: 10px;
+  padding-top: 81px;
+}
+
+#give_a_rate {
+  font-size: 21px;
+}
+

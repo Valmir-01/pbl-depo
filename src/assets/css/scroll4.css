@@ -1,0 +1,95 @@
+#scroll4 {
+  width: 99%;
+  height: 100vh;
+  background-color: rgba(0,255,10,0);
+  margin-top: 12px;
+}
+
+#scroll4_title {
+  margin-top: 69px;
+}
+
+.d-lg-flex.justify-content-lg-center.align-items-lg-center {
+  width: 100%;
+}
+
+#scroll4_column {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#scroll4_column {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+#scroll4_column {
+  margin-right: 15px;
+  margin-left: 15px;
+}
+
+.col-md-4.col-lg-3.d-flex.justify-content-center.item {
+  border-radius: 20px;
+  background-color: #e8e8e8;
+}
+
+#scroll4_column1_image {
+  margin-top: 14px;
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 208px;
+}
+
+#scroll4_column1_paragraph {
+  margin-bottom: 20px;
+}
+
+#scroll4_column1_button {
+  border-radius: 20px;
+  width: 131px;
+  padding-top: 0;
+}
+
+#scroll4_column1_button_div {
+  margin-bottom: 16px;
+}
+
+#scroll4_column1_button_div {
+  margin-bottom: 16px;
+}
+
+#scroll4_column2_image {
+  margin-top: 14px;
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 208px;
+}
+
+#scroll4_column2_paragraph {
+  margin-bottom: 20px;
+}
+
+#scroll4_column3_image {
+  margin-top: 14px;
+  background-image: url("../../assets/img/pbl-depo-logo-12.png");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 208px;
+}
+
+#scroll4_title {
+  font-family: 'Montserrat SemiBold';
+  line-height: 39px;
+  font-size: 37px;
+}
+
+.text-center {
+  font-family: 'Montserrat Medium';
+  font-size: 14px;
+}
+
